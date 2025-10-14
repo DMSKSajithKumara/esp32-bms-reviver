@@ -57,7 +57,7 @@ After this final step, the BMS began reporting live voltage data, confirming it 
     * **ESP32 `GND`** -> BMS `GND` pin
     * A **common ground** was established between the ESP32 and the separate 5V supply powering the BMS.
  
-![Battery Connector Pinout](photos/battery_connector.jpg)
+![Battery Connector Pinout](photos/battery_connector.png)
 ![esp32_pinout](photos/esp32_pinout.png)
 
 ---
@@ -76,3 +76,4 @@ Working with Lithium-ion batteries is dangerous.
 
 
 This project is open-source and licensed under the MIT License. See the `LICENSE` file for details.
+
